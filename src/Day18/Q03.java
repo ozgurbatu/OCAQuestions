@@ -1,7 +1,9 @@
-package Day15;
+package Day18;
+
 class MyException extends RuntimeException {}
 
 public class Q03 {
+
     public static void main(String[] args) {
 
         try {
@@ -29,6 +31,7 @@ public class Q03 {
 //C. Either A or B
 //D. A B
 //E. A compile time error occurs at line n1
+
 
 
 
