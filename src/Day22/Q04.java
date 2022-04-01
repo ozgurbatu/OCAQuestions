@@ -26,6 +26,4 @@ Which code fragment, when inserted at line n1, enables the App class to print Eq
  C. Option C
  D. Option D
  Answer: B
-
-
  */
