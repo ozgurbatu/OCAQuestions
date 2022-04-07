@@ -8,7 +8,7 @@ public class Q03 {
         int a = 15;
         int b = 10;
         Q03.addToInt(a, b);
-        System.out.println(a);
+        System.out.println(a); // int a = 15; burada ki degeri gelir 15
     }
 }
 

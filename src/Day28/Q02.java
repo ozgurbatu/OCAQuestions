@@ -7,11 +7,11 @@ public class Q02 {
     public static void main(String[] args) {
         int[] array = {6,9,8};
         List<Integer> list = new ArrayList<>();
-        list.add(array[0]);
-        list.add(array[2]);
-        list.set(1, array[1]);
-        list.remove(0);
-        System.out.println(list);
+        list.add(array[0]);//6
+        list.add(array[2]);//6,8
+        list.set(1, array[1]);//6,9
+        list.remove(0);//9
+        System.out.println(list);//9
     }
 }
         /**
